@@ -1,0 +1,1 @@
+Spotify extension for vs code
