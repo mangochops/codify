@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@vscode/vsce": "^3.2.1",
+    "webpack": "^5.97.1"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "packageManager": "yarn@4.6.0"
+}
